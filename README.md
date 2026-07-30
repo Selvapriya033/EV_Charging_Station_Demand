@@ -85,8 +85,11 @@ Charging Demand
 | Model                          | R² Score |
 
 | Linear Regression              | 0.9888   |
+
 | Decision Tree                  | 0.9777   |
+
 | Random Forest                  | 0.9888   |
+
 | Gradient Boosting (Best Model) | 0.9893   |
 
 **Best Model**
@@ -102,6 +105,7 @@ Prediction Accuracy: ≈98.9%
 Clone the repository
 
 git clone https://github.com/Selvapriya033/EV_Charging_Station_Demand
+
 Install dependencies
 
 pip install -r requirements.txt
